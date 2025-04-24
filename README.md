@@ -1,5 +1,7 @@
 <h1 align="center" id="title">Live Collaboration Docs</h1>
 
+<p align="center"><img src="https://socialify.git.ci/bibekdev/live-collaboration-docs/image?font=Bitter&amp;language=1&amp;name=1&amp;owner=1&amp;pattern=Plus&amp;stargazers=1&amp;theme=Auto" alt="project-image"></p>
+
 <p id="description">A Google Docs clone is a simplified web-based word-processing application that mimics the core functionalities of Google Docs. It allows users to create edit and collaborate on documents in real time.</p>
 
 <h2>Project Screenshots:</h2>
