@@ -1,36 +1,55 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+<h1 align="center" id="title">Live Collaboration Docs</h1>
 
-## Getting Started
+<p id="description">A Google Docs clone is a simplified web-based word-processing application that mimics the core functionalities of Google Docs. It allows users to create edit and collaborate on documents in real time.</p>
 
-First, run the development server:
+<h2>Project Screenshots:</h2>
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+<img src="./screenshots/s1.png" alt="project-screenshot" width="400" height="400/">
+
+<img src="./screenshots/s2.png" alt="project-screenshot" width="400" height="400/">
+
+  
+  
+<h2>🧐 Features</h2>
+
+Here're some of the project's best features:
+
+*   <b>Real-Time Collaboration</b> – Multiple users can edit the same document simultaneously with live updates.
+*   <b>Rich Text Editing</b> – Supports formatting options like bold italics headings lists and more.
+*   <b>Cloud Storage</b> – Documents are saved automatically and stored online.
+*   <b>>User Authentication</b> – Secure login/signup to manage documents per user.
+*  <b>Version History</b> – Tracks changes and allows reverting to previous versions.
+*   <b>Shareable Links</b> – Users can share documents with others via links.
+*   <b>Comment System</b> – Users can comment on the docs
+
+<h2>🛠️ Installation Steps:</h2>
+
+<p>1. Clone repo</p>
+
+```
+git clone https://github.com/bibekdev/live-collaboration-docs.git
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+<p>2. Install dependencies</p>
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+```
+bun install
+```
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+<p>3. Run locally</p>
 
-## Learn More
+```
+bun run dev
+```
 
-To learn more about Next.js, take a look at the following resources:
+  
+  
+<h2>💻 Built with</h2>
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+Technologies used in the project:
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+*   Nextjs
+*   Convex
+*   Clerk
+*   Tailwind
+*   Shadcn/ui
