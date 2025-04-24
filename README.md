@@ -6,9 +6,9 @@
 
 <h2>Project Screenshots:</h2>
 
-<img src="./screenshots/s1.png" alt="project-screenshot" width="600" height="400/">
+<img src="./screenshots/s1.png" alt="project-screenshot" width="800" height="400/">
 
-<img src="./screenshots/s2.png" alt="project-screenshot" width="600" height="400/">
+<img src="./screenshots/s2.png" alt="project-screenshot" width="800" height="400/">
 
   
   
